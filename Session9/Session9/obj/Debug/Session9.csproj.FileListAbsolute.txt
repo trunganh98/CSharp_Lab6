@@ -1,0 +1,7 @@
+D:\C#\Session9\Session9\bin\Debug\Session9.exe.config
+D:\C#\Session9\Session9\bin\Debug\Session9.exe
+D:\C#\Session9\Session9\bin\Debug\Session9.pdb
+D:\C#\Session9\Session9\obj\Debug\Session9.csprojAssemblyReference.cache
+D:\C#\Session9\Session9\obj\Debug\Session9.csproj.CoreCompileInputs.cache
+D:\C#\Session9\Session9\obj\Debug\Session9.exe
+D:\C#\Session9\Session9\obj\Debug\Session9.pdb
