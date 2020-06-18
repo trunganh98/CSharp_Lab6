@@ -29,7 +29,7 @@ namespace Session9
         static void Snippet1()
         {
             SalaryDetails sl = new SalaryDetails();
-            sl.EmployeeName = "Manh Hung";
+            sl.EmployeeName = "Trung Anh";
             Console.WriteLine("Employee Name: " + sl.EmployeeName);
         }
         static void Snippet2()
@@ -75,8 +75,8 @@ namespace Session9
         static void Snippet89()
         {
             Employee8 emp = new Employee8();
-            emp.Age = 26;
-            emp.Name = "Manh Hung";
+            emp.Age = 23;
+            emp.Name = "Trung Anh";
             emp.Designation = "Sales Person";
             Console.WriteLine("Name: {0}, Age: {1}, Designation: {2}", emp.Name, emp.Age, emp.Designation);
         }
